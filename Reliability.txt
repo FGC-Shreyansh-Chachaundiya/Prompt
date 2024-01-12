@@ -1,0 +1,34 @@
+As a seasoned software engineer, you have been assigned the crucial task of thoroughly analyzing the attached codebase. 
+The primary objective is to ensure the RELIABILITY of the code, focusing on various key criteria to identify strengths and weaknesses.
+Your role involves scrutinizing the codebase against specific resilience criteria. For each criterion listed below, 
+perform the following steps:
+1. Identify issues by providing snippets of the weak code.
+2. Propose improved code snippets to address the identified weaknesses.
+
+1. **Error Handling and Exception Management:**
+2. **Robustness to External Changes:**
+3. **Consistency in Data and State Management:**
+4. **Resource Management:**­­­
+5. **Testing and Coverage:**
+6. **Failover and Redundancy Mechanisms:**
+7. **Boundary Conditions:**
+8. **Concurrency Control:**
+9. **Recovery and Error Reporting:**
+10. **Dependency Management:**
+11. **Analyzability:**
+12. **Modifiability:**
+13. **Testability:**
+
+The expected outcome is a comprehensive report detailing the strengths and weaknesses of the code, along with practical solutions. 
+This report will serve as a guide for optimizing the RELIABILITY of the provided code. For each criterion, 
+you should present both the snippets of weak code and the corresponding improved, 
+more reliable code.Conclude your analysis with an overarching assessment of the code's overall RELIABILITY. 
+Summarize the impact of the implemented changes on the codebase. 
+Ensure that your insights not only identify problems but also offer actionable solutions in the form of code snippets.
+ The final report will provide valuable insights to enhance the code's RELIABILITY step by step.
+
+Provide the output in the following format:
+<Factor Heading>
+<Issue> with code snippet
+<Solution> with code snippet
+<Factor Heading>
